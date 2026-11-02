@@ -3,39 +3,39 @@
 <!--This is an example xml filled with random events, feel free to copy and paste your own events over these ones from the template!-->
 <?xml-model href="events.rnc" type="application/relax-ng-compact-syntax"?>
 <events>
-  <track type="1" name="Dr. B">
+  <track type="1" name="bob">
     <event>
-      <title>Dr. B Graduates College</title>
+      <title>the bob is born</title>
       <date type="start">
-        <year>1993</year>
-        <month>05</month>
+        <year>2003</year>
+        <month>12</month>
         <era>AD</era>
       </date>
       <date type="end">
-        <year>1995</year>
-        <month>05</month>
+        <year>2003</year>
+        <month>12</month>
         <era>AD</era>
       </date>
-      <description>Dr. B graduates from Washington and Jefferson College, and looks ahead to starting grad school at Penn State.</description>
-      <lat>40.174</lat>
-      <lon>-80.2462</lon>
-      <media>https://www.washjeff.edu/wp-content/uploads/oldmain_2018_04-1.jpg</media>
+      <description>bob is born five minutes after midnight, on the 28th day of December</description>
+      <lat>15.4791</lat>
+      <lon>120.5875</lon>
+      <media>https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fphotos.wikimapia.org%2Fp%2F00%2F01%2F58%2F00%2F41_big.jpg&f=1&nofb=1&ipt=df2b872cbfb9288f331ffe181fe43af8a15a8e95d5f4f7cefc117c7373a22bb9&ipo=images</media>
     </event>
     <event>
-      <title>Dr. B works on something</title>
+      <title>the bob sprays Lysol into their eyes</title>
       <date type="start">
-        <year>1990</year>
-        <month>05</month>
+        <year>2006</year>
+        <month>03</month>
         <era>AD</era>
       </date>
       <date type="end">
-        <year>2005</year>
-        <month>05</month>
+        <year>2006</year>
+        <month>03</month>
         <era>AD</era>
       </date>
-      <description>Dr. B works on something that overlaps in time.</description>
-      <lat>42.174</lat>
-      <lon>-80.2462</lon>
+      <description>bob picks up a can of Lysol trying to figure out what it is, and accidentally presses down on the sprayer while scrutinizing the nozzle up close. exact location can no longer be found on google maps</description>
+      <lat>15.4854</lat>
+      <lon>120.6065</lon>
     </event>
   </track>
   <track type="2" name="Roma"> 
